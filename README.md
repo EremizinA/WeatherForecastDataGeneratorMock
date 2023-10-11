@@ -1,0 +1,2 @@
+# WeatherForecastDataGeneratorMock
+WireMock server that generates data for WeatherForecastApplication
